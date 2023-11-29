@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [PyPad](https://github.com/chebupelka8/PyPad)
 
-- 🌱 I’m currently learning **JavaScript, PySide6, Html, CSS and also Godot**
+- 🌱 I’m currently learning **JavaScript, PySide6, Html, Python, CSS and also Godot**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/chebupelka8)
 
