@@ -7,7 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/chebupelka8](https://github.com/chebupelka8)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
