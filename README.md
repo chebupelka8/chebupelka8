@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm chebupelka</h1>
-<h3 align="center">A beginner python developer from Russia</h3>
+<img scr="https://steamuserimages-a.akamaihd.net/ugc/915798976668164818/476D442FC621CEA0812F51702E64C213A7903099/?imw=512&amp;imh=512&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"></img>
 
 - 🔭 I’m currently working on [PyPad](https://github.com/chebupelka8/PyPad)
 
