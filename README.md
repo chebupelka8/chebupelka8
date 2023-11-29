@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm chebupelka</h1>
-<img scr="[https://steamuserimages-a.akamaihd.net/ugc/915798976668164818/476D442FC621CEA0812F51702E64C213A7903099/?imw=512&amp;imh=512&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true](https://media.tenor.com/FedgiURrD8oAAAAi/xd-meme.gif)"></img>
+<div class="tenor-gif-embed" data-postid="5632921443081213384" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/capyroll-gif-5632921443081213384">Capyroll Sticker</a>from <a href="https://tenor.com/search/capyroll-stickers">Capyroll Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 - 🔭 I’m currently working on [PyPad](https://github.com/chebupelka8/PyPad)
 
