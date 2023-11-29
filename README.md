@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm chebupelka</h1>
 <p align="center"> <img src="capyroll.gif"></img> </p>
 
+# About me
 - 🔭 I’m currently working on [PyPad](https://github.com/chebupelka8/PyPad)
 
 - 🌱 I’m currently learning **JavaScript, PySide6, Html, CSS and also Godot**
