@@ -11,7 +11,7 @@
 
 <h2>GitHub Stats</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chebupelka8&layout=compact&theme=dark&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chebupelka8&layout=compact&theme=dark)
 
 <h3 align="left">Languages and Tools</h3>
 
