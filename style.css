@@ -1,0 +1,62 @@
+@import url('https://fonts.cdnfonts.com/css/cascadia-code');
+
+* {
+    font-family: 'Cascadia Code', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: url("https://i.pinimg.com/originals/e1/69/9c/e1699c982396398139e4fc8c010c90f8.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+}
+
+div.card {
+    color: rgba(255, 255, 255, .6);
+    position: absolute;
+    width: 70vh;
+    height: 40vh;
+    background-color: transparent;
+    border-radius: 25px;
+    left: 50%;
+    top: 52%;
+    transform: translate(-50%, -50%);
+    border: 2px solid rgba(255, 255, 255, .6);
+    backdrop-filter: blur(18px);
+}
+
+.card label.greeting {
+    position: absolute;
+    color: rgba(255, 255, 255, .6);
+    font-size: 35px;
+    text-align: center;
+    width: 100%;
+    padding-top: 5px;
+}
+
+.card label.about {
+    position: absolute;
+    left: 15px;
+    top: 20%;
+}
+
+.card img {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    max-height: 100px;
+    top: 12%;
+}
+
+.card a {
+    color: #004e89;
+    text-decoration: none;
+}
+
+.card a:hover {
+    text-decoration: underline;
+}
