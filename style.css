@@ -21,7 +21,7 @@ div.card {
     width: 70vh;
     height: 40vh;
     background-color: transparent;
-    border-radius: 25px;
+    border-radius: 35px;
     left: 50%;
     top: 52%;
     transform: translate(-50%, -50%);
@@ -31,7 +31,7 @@ div.card {
 
 .card label.greeting {
     position: absolute;
-    color: rgba(255, 255, 255, .6);
+    color: white;
     font-size: 35px;
     text-align: center;
     width: 100%;
@@ -39,12 +39,13 @@ div.card {
 }
 
 .card label.about {
+    color: white;
     position: absolute;
     left: 15px;
     top: 20%;
 }
 
-.card img {
+.card img.capy {
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
@@ -59,4 +60,11 @@ div.card {
 
 .card a:hover {
     text-decoration: underline;
+}
+
+.card label.langs-tools {
+    color: white;
+    position: relative;
+    top: 60%;
+    left: 15px;
 }
