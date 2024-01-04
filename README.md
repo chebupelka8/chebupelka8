@@ -16,6 +16,5 @@
 <h2>GitHub Stats</h2>
 
 <p align="center"> 
-  <img     
-src="[https://camo.githubusercontent.com/0bdc711d8b4f358f628553033fe0f3a203984489bbe467e687b3947369f2f47d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d636865627570656c6b6138266c61796f75743d636f6d70616374267468656d653d6461726b](https://github-readme-stats.vercel.app/api/top-langs/?username=chebupelka8&layout=compact&theme=dark)https://github-readme-stats.vercel.app/api/top-langs/?username=chebupelka8&layout=compact&theme=dark"</img> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chebupelka8&layout=compact&theme=dark">
 </p>
