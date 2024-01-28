@@ -3,5 +3,5 @@
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chebupelka8&layout=compact&theme=dark""
-  <img src="https://github-readme-stats.vercel.app/api?username=chebupelka8&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true">
 </p>
