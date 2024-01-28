@@ -2,5 +2,5 @@
 <p align="center"> <img src="capyroll.gif"> </p>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chebupelka8&layout=compact&theme=dark""
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chebupelka8&layout=compact&theme=Gradient""
 </p>
